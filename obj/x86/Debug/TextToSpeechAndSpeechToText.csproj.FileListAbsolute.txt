@@ -1,0 +1,11 @@
+C:\Users\neelrb\Documents\MicrosoftSpeechToTextExample\MicrosoftSpeechToTextExample\bin\Debug\example.wav
+C:\Users\neelrb\Documents\MicrosoftSpeechToTextExample\MicrosoftSpeechToTextExample\bin\Debug\MicrosoftSpeechToTextExample.exe
+C:\Users\neelrb\Documents\MicrosoftSpeechToTextExample\MicrosoftSpeechToTextExample\bin\Debug\MicrosoftSpeechToTextExample.pdb
+C:\Users\neelrb\Documents\MicrosoftSpeechToTextExample\MicrosoftSpeechToTextExample\bin\Debug\EllisMIS.dll
+C:\Users\neelrb\Documents\MicrosoftSpeechToTextExample\MicrosoftSpeechToTextExample\bin\Debug\EllisMIS.pdb
+C:\Users\neelrb\Documents\MicrosoftSpeechToTextExample\MicrosoftSpeechToTextExample\obj\x86\Debug\TextToSpeechAndSpeechToText.csprojResolveAssemblyReference.cache
+C:\Users\neelrb\Documents\MicrosoftSpeechToTextExample\MicrosoftSpeechToTextExample\obj\x86\Debug\MicrosoftSpeechToTextExample.Properties.Resources.resources
+C:\Users\neelrb\Documents\MicrosoftSpeechToTextExample\MicrosoftSpeechToTextExample\obj\x86\Debug\TextToSpeechAndSpeechToText.csproj.GenerateResource.Cache
+C:\Users\neelrb\Documents\MicrosoftSpeechToTextExample\MicrosoftSpeechToTextExample\obj\x86\Debug\MicrosoftSpeechToTextExample.exe
+C:\Users\neelrb\Documents\MicrosoftSpeechToTextExample\MicrosoftSpeechToTextExample\obj\x86\Debug\MicrosoftSpeechToTextExample.pdb
+C:\Users\neelrb\Documents\MicrosoftSpeechToTextExample\MicrosoftSpeechToTextExample\obj\x86\Debug\MicrosoftSpeechToTextExample.SpeechToText.resources
